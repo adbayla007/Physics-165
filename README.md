@@ -31,7 +31,7 @@ This project analyzes the relationship between athlete fatigue and injury risk u
 
 ## 🎥 Presentation
 - 📺 [5-Minute Video Link](#)
-- 📊 [Colab Notebook](#)
+- 📊 [Colab Notebook](#) https://colab.research.google.com/drive/1wPid-JoDv8xjIZjat9JQjVbLlGG6FL5g?pli=1#scrollTo=QbVCWZ5AjzNd
 
 ## 📚 Citation & Acknowledgements
 - Dataset by Kaggle contributor Ziya07
