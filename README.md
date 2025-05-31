@@ -30,7 +30,7 @@ This project analyzes the relationship between athlete fatigue and injury risk u
 - Fatigue is a strong predictor of injury risk and should be monitored to prevent harm.
 
 ## 🎥 Presentation
-- 📺 [5-Minute Video Link](#)
+- 📺 [5-Minute Video Link](#) https://youtu.be/GVlV6ZZEclQ
 - 📊 [Colab Notebook](#) https://colab.research.google.com/drive/1wPid-JoDv8xjIZjat9JQjVbLlGG6FL5g?pli=1#scrollTo=QbVCWZ5AjzNd
 
 ## 📚 Citation & Acknowledgements
@@ -41,4 +41,4 @@ This project analyzes the relationship between athlete fatigue and injury risk u
 ## 📬 Contact
 Feel free to reach out for collaboration or feedback:
 - Email: adbayla@up.edu.ph
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: (https://github.com/adbayla007)
